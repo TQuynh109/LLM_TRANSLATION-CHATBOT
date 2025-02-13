@@ -32,7 +32,7 @@ This project integrates `web crawling`, `NLP` (natural language processing), and
     - Input: ["Hello", "How are you?", "Tôi là sinh viên"] 
     → Output: ["Xin chào", "Bạn khỏe không?", "Tôi là sinh viên"]
 
-    <img src="Docs/Images/result_1.png" width="1100px" height="500px">
+    <img src="Docs/Images/result_1.png">
 
 **2. Chatbot** 
 
@@ -46,4 +46,4 @@ This project integrates `web crawling`, `NLP` (natural language processing), and
 
     - Chatbot response: "The policy is a Privacy Policy that explains how Presight collects, uses, and discloses information about their customers and website visitors."
     
-    <img src="Docs/Images/result_2.png" width="1400px" height="1000px">
+    <img src="Docs/Images/result_2.png">
