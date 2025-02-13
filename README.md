@@ -50,18 +50,18 @@ This project integrates `web crawling`, `NLP` (natural language processing), and
 
 **3. Web Interface for Chatbot**
 
-**3.1. Objective**: Enable users to easily query information from [Presight's](https://www.presight.io/privacy-policy.html) policies through an online chatbot.
+* **Objective**: Enable users to easily query information from [Presight's](https://www.presight.io/privacy-policy.html) policies through an online chatbot.
 
-**3.2. KEY FEATURES**
+* **KEY FEATURES**
 
-- *Simple and intuitive interface*: users can enter questions in the chat box and receive instant responses.
+    - *Simple and intuitive interface*: users can enter questions in the chat box and receive instant responses.
 
-- *Direct connection to chatbot `backend`*: the system sends queries to the backend, processes them using NLP, and returns relevant answers.
+    - *Direct connection to chatbot `backend`*: the system sends queries to the backend, processes them using NLP, and returns relevant answers.
 
-- *Displayed information with source citations*: responses may include citations from Presight’s policies, allowing users to verify the information.
+    - *Displayed information with source citations*: responses may include citations from Presight’s policies, allowing users to verify the information.
 
-- *Conversation history*: users can review previous questions to track information.
+    - *Conversation history*: users can review previous questions to track information.
 
-**3.3. Demo & Illustrations**: The demo video is attached to the project.
+* **Demo & Illustrations**: The demo video is attached to the project.
 
-<img src="Docs/Images/result_3.png">
+    <img src="Docs/Images/result_3.png">
