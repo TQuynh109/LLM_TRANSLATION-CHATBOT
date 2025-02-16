@@ -65,3 +65,14 @@ This project integrates `web crawling`, `NLP` (natural language processing), and
 * **Demo & Illustrations**: The demo video is attached to the project.
 
     <img src="Docs/Images/result_3.png">
+
+## Contributors
+
+We sincerely thank all team members for their dedication and time in developing this project. Your collaboration and sense of responsibility have contributed to achieving the best possible results.
+
+| **Name**| **Major**| **University**|
+|-|-|-|
+| Phan Binh Phuong      | Data Science  | University of Science (VNUHCM) |
+| Huynh Thao Quynh | Data Science  | University of Science (VNUHCM) |
+| Nguyen Ngoc Thanh Thu | Data Science  | University of Science (VNUHCM) |
+| Ho Tran Anh Thu     | Data Science  | University of Science (VNUHCM) |
